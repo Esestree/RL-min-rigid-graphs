@@ -1,0 +1,10 @@
+# MLflow
+mlruns/
+mlflow.db
+
+# Hydra
+.hydra
+
+# Saved output tensors
+tmp_saves/
+pretrained_models/
