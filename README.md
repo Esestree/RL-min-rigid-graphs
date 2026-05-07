@@ -1,6 +1,6 @@
 # Learning Minimally Rigid Graphs with High Realization Counts
 
-Source code for the experiments in the paper "Learning Minimally Rigid Graphs with High Realization Counts." Use this toolkit to search for minimally rigid graphs with rare combinatorial features (e.g. maximized realization counts (planar/spherical), maximized number of NAC-colorings)
+Source code for the experiments in the paper "Learning Minimally Rigid Graphs with High Realization Counts" (Oleksandr Slyvka, Jan Rubeš, Rodrigo Alves, Jan Legerský). Use this toolkit to search for minimally rigid graphs with rare combinatorial features (e.g. maximized realization counts (planar/spherical), maximized number of NAC-colorings)
 
 ## Repository Structure
 
