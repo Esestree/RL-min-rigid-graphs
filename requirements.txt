@@ -14,3 +14,4 @@ mlflow==3.1.1
 hydra-optuna-sweeper==1.2.0
 psutil>=7.0.0
 pynauty==2.8.8.1
+notebook==7.5.6
